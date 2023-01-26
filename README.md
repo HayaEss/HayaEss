@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HayaEss
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science Professional Certificate
-- 💞️ I’m looking to collaborate on Data science projects
+- 👀 I’m interested in Data WORLD.
+- 💞️ I’m looking to collaborate on Data Analytics projects Including (EXCEL an SQL).
 
 
 <!---
